@@ -1,3 +1,9 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [merttoptas/BaseApp-Jetpack-Compose-Android-Kotlin](https://github.com/merttoptas/BaseApp-Jetpack-Compose-Android-Kotlin),
+> maintained for the CS552 GitHub MCP Injection Benchmark. The upstream LICENSE
+> (Apache-2.0) is preserved verbatim.
+
+---
 
 <br />
   <a href="https://github.com/othneildrew/Best-README-Template">
